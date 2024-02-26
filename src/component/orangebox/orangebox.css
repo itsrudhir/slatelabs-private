@@ -1,0 +1,62 @@
+
+
+.blank{
+    height: 1rem;
+    background: transparent;
+}
+.orangebox{
+  background: orange;
+  margin-top: 2.5rem;
+  width: 90%;
+box-shadow: 4px 4px 8px;
+border-radius: 8px;
+margin:auto;
+/* display: grid; */
+
+}
+
+.textorange{
+    width: 40%;
+    position: relative;
+    top: 5%;
+
+}
+
+.textorange h1{
+    font-size: 3.5rem;
+
+}
+
+.picorange{
+    object-fit: cover;
+    margin: inherit;
+    height: 70%;
+    width: 45%;
+    display: flex;
+}
+
+.pic2{
+    position: relative;
+    top: 50%;
+    left: 5%;
+}
+
+/* .pic1{
+    position: relative;
+    bottom: 40%;
+    right: 1%;
+} */
+
+.orangebelow{
+    width: 90%;
+    background: transparent;
+    margin: auto;
+    height: 16rem;
+    /* justify-content: space-around; */
+  }
+
+ 
+
+ 
+
+
